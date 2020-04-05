@@ -8,3 +8,7 @@ http://elinux.org/RPi-Cam-Web-Interface
 
 This includes the installation instructions at the top and full technical details.
   
+
+
+Other changes needed:
+ - add www-data (apache user) to the i2c group 
